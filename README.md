@@ -55,6 +55,18 @@ Built using Logistic Regression with ROC-AUC Optimization and deployed using Str
 
 ---
 
+🌐 Live Demo
+
+🚀 The AI-Powered Telecom Customer Churn Intelligence System is now deployed on Streamlit for real-time churn prediction.
+
+No setup required — try it directly in your browser:
+
+👉 Open Live App
+
+✨ Real-time predictions
+📊 Interactive risk analytics
+📄 Downloadable PDF reports
+
 ## 💻 Run Locally
 
 ```bash
