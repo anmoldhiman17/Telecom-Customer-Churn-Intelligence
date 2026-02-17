@@ -61,7 +61,7 @@ Built using Logistic Regression with ROC-AUC Optimization and deployed using Str
 
 No setup required — try it directly in your browser:
 
-👉 [Open Live App] (https://ai-powered-telecom-customer-churn-intelligence-01.streamlit.app)
+👉 [Open Live App](https://ai-powered-telecom-customer-churn-intelligence-01.streamlit.app)
 
 ✨ Real-time predictions
 📊 Interactive risk analytics
